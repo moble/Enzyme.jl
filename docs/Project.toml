@@ -11,7 +11,7 @@ Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 Documenter = "1"
 EnzymeTestUtils = "0.2"
 Literate = "2"
-PlutoStaticHTML = "7"
+PlutoStaticHTML = "7, 8"
 
 [sources.Enzyme]
 path = ".."
